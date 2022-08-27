@@ -83,7 +83,7 @@
     border: none;
     resize: none;
     line-height: 1.5;
-    overflow: scroll;
+    overflow: hidden;
   }
 
   .fx-container {
